@@ -1,14 +1,12 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=185&color=0:07080A,46:181A1E,100:34383F&text=JoséLucas&fontColor=F5F6F7&fontSize=40&fontAlign=85&fontAlignY=39&desc=Desenvolvedor%20Front-end%20%7C%20Desenvolvedor%20Back-end%20%7C%20Desenvolvedor%20Full-stack&descAlignY=66&descSize=14&descColor=B7BBC2"
+    src="https://capsule-render.vercel.app/api?type=rect&height=185&color=0:07080A,46:181A1E,100:34383F&text=JoséLucas&fontColor=F5F6F7&fontSize=40&fontAlign=50&fontAlignY=39&desc=Desenvolvedor%20Front-end%20%7C%20Desenvolvedor%20Back-end%20%7C%20Desenvolvedor%20Full-stack&descAlignY=66&descSize=14&descColor=B7BBC2"
     alt="José Lucas"
   />
 </p>
 
 <hr>
-
-<div align="center">
 
 <h2> 🧠 Sobre mim </h2>
 
@@ -17,8 +15,6 @@
 </p>
 
 <p>Atualmente evoluindo através de projetos práticos focados em resolver problemas reais e simular cenários futuros ao ambiente de produção.</p>
-
-</div>
 
 <hr>
 
@@ -34,8 +30,6 @@
 </div>
 
 <hr>
-
-<div align="center">
 
 <h2> 🛠️ Linguagens e tecnologias </h2>
 
@@ -77,29 +71,21 @@
 [![Postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
-</div>
-
 <hr>
-
-<div align="center">
 
 <h2> 📊 Estatísticas do GitHub </h2>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
+</p>
 
 <hr>
 
-<div align="center">
-
 <h2> 📈 Atividade de contribuições </h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
-
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
+</p>
 
 <h2> 📖 João 14:6 </h2>
 
@@ -109,9 +95,9 @@
   </em>
 </blockquote>
 
-<img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
-
-</div>
+<p align="center">
+  <img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:34383F,50:181A1E,100:07080A&section=footer" alt="Footer" />
