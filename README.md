@@ -81,12 +81,6 @@
 
 <hr>
 
-<h2> 📈 Atividade de contribuições </h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
-</p>
-
 <h2> 📖 João 14:6 </h2>
 
 <blockquote>
