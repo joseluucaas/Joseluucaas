@@ -1,7 +1,7 @@
 <h1>👨🏻‍💻 José Lucas</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=8C948C&width=700&lines=Desenvolvedor+Front-end;Desenvolvedor+Back-end;Desenvolvedor+Full-Stack;DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=8C948C&width=700&lines=Desenvolvedor+Front-end;Desenvolvedor+Back-end;Desenvolvedor+Full-Stack" />
 </p>
 
 <hr>
@@ -96,5 +96,9 @@
 
 <p>
   <img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:34383F,50:181A1E,100:07080A&section=footer" alt="Footer" />
 </p>
 
