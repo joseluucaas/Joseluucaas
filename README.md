@@ -95,6 +95,6 @@
 
 
 <p>
-  <img src="img/Ele me amou.jpeg" alt="Matthew Macri" width="500" />
+  <img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
 </p>
 
