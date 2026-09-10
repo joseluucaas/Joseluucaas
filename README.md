@@ -1,7 +1,9 @@
-<h1>👨🏻‍💻 José Lucas</h1>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=8C948C&width=700&lines=Desenvolvedor+Front-end;Desenvolvedor+Back-end;Desenvolvedor+Full-Stack" />
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=185&color=0:07080A,46:181A1E,100:34383F&text=JoséLucas&fontColor=F5F6F7&fontSize=40&fontAlign=85&fontAlignY=39&desc=Desenvolvedor%20Front-end%20%7C%20Desenvolvedor%20Back-end%20%7C%20Desenvolvedor%20Full-stack&descAlignY=66&descSize=14&descColor=B7BBC2"
+    alt="José Lucas"
+  />
 </p>
 
 <hr>
