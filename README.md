@@ -8,6 +8,8 @@
 
 <hr>
 
+<div align="center">
+
 <h2> 🧠 Sobre mim </h2>
 
 <p>
@@ -16,22 +18,26 @@
 
 <p>Atualmente evoluindo através de projetos práticos focados em resolver problemas reais e simular cenários futuros ao ambiente de produção.</p>
 
+</div>
+
 <hr>
 
-<h2> 🌐 Onde me encontrar </h2> 
+<div align="center">
 
-<div>
- 
+<h2> 🌐 Onde me encontrar </h2>
+
 <a href="https://www.linkedin.com/in/joseluucaas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/joseluucaas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://github.com/joseluucaas">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a> 
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
 
 </div>
 
 <hr>
 
-<h2> 🛠️ Linguagens e tecnologias </h2> 
+<div align="center">
+
+<h2> 🛠️ Linguagens e tecnologias </h2>
 
 <h3> Front-end </h3>
 
@@ -61,7 +67,7 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)]()
 
-<h3> Ferramentas & DevOps </h3> 
+<h3> Ferramentas & DevOps </h3>
 
 [![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
@@ -71,21 +77,29 @@
 [![Postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
-<hr>
-    
-<h2> 📊 Estatísticas do GitHub </h2> 
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
-</p>
+</div>
 
 <hr>
+
+<div align="center">
+
+<h2> 📊 Estatísticas do GitHub </h2>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
+
+</div>
+
+<hr>
+
+<div align="center">
 
 <h2> 📈 Atividade de contribuições </h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
+
+</div>
+
+<div align="center">
 
 <h2> 📖 João 14:6 </h2>
 
@@ -95,12 +109,10 @@
   </em>
 </blockquote>
 
+<img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
 
-<p>
-  <img src="Ele me amou.jpeg" alt="Matthew Macri" width="500" />
-</p>
+</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:34383F,50:181A1E,100:07080A&section=footer" alt="Footer" />
 </p>
-
